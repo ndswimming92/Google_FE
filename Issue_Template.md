@@ -2,6 +2,6 @@
 
 # Acceptance Criteria
 
-# Dependecies
+# Dependencies
 
 # Dev Notes
