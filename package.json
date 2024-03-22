@@ -2,7 +2,7 @@
   "name": "googlee24",
   "private": true,
   "version": "1.0.0",
-  "author": "Nicholas Davidson",
+  "author": "Nicholas Davidson, Austin Mangum, Paul Patterson, Lucas Martin",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
